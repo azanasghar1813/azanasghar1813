@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Google Cloud](https://shields.io)](https://www.credly.com/badges/e9084255-2613-4149-a769-c5a2fb7f7142/email)
+[![Google Cloud](https://shields.io)](https://credly.com)
+
 
