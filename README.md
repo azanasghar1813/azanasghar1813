@@ -9,7 +9,9 @@ Passionate about building scalable web applications, serverless architectures, a
 - **Languages & Frameworks:** JavaScript • Node.js • React • C++
 - **Cloud & Databases:** Google Cloud Platform (GCP) • MongoDB
 
-[![Google Cloud](https://shields.io)](https://credly.com)
+<a href="https://credly.com" target="_blank">
+  <img src="https://shields.io" alt="Google Cloud Badge" />
+</a>
 
 ---
 
